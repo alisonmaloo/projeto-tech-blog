@@ -28,3 +28,22 @@ h1{
 a{text-decoration: none;}
 a:link , a:visited{color: aliceblue;padding: 8px 12px;}
 a:hover{ color:#f7b600 ;background: #fff;}
+
+/*AREA PRINCIPAL*/
+
+#area-principal{ background: ;
+width: 920px;
+margin: 0 auto;}
+
+#area-postagens{width: 660px;float: left;
+
+}
+#area-lateral{ width: 240px; float: right;}
+
+#rodape{ background: #ccc; text-align: center; clear: both;padding: 15px;}
+
+.postagem{ padding: 20px;
+    margin-bottom: 20px;
+    background: #fff;
+
+}
